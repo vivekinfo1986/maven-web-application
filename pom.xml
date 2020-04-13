@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Java Web Application</name>
-	      <url>http://192.168.220.128:8090/custom/repository/javawebapp-release//</url>
+	      <url>http://192.168.220.133:8081/repository/maven-web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Java Web Application</name>
-	      <url>http://192.168.220.128:8090/custom/repository/javawebapp-snapshot/</url>
+	      <url>http://192.168.220.133:8081/repository/maven-web-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
